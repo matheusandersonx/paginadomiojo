@@ -49,7 +49,7 @@ Sinta-se à vontade para explorar o código, sugerir melhorias ou tirar dúvidas
 
 ## 📄 Licença
 
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT) (ou a licença que você preferir usar).
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT) 
 
 ---
 
